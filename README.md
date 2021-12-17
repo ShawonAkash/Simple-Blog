@@ -17,3 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+//json-server is not recognized as an internal or external
+npm install -g json-server
+npx json-server --watch data/db.json

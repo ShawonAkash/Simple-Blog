@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Akash",
+      "body": "AKsdhsakdaskdasjdklasd",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Akash",
+      "body": "AKsdhsakdaskdasjdklasd",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 4
+    },
+    {
+      "title": "asd",
+      "body": "sda",
+      "tags": [],
+      "id": 5
+    }
+  ]
+}
